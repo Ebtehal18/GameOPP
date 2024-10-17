@@ -10,7 +10,7 @@ This project is a gaming website that showcases a variety of games. It is divide
 - **Organized Code Structure**: The project uses JavaScript classes to separate functionality and improve code organization.
 
 ## Live Demo
-Check out the live demo of the project [here](https://your-live-demo-link.com).
+Check out the live demo of the project [here](https://ebtehal18.github.io/GameOPP/).
 
 ## Technologies Used
 - HTML
